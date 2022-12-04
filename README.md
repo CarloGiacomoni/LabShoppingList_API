@@ -79,4 +79,4 @@ A aplicação realizada individualmente deverá seguir os requisitos apresentado
 ○ Listar o valor total comprado
 ○ Utilizar o status para calcular
 ### ● Documentação de código:
-○ Documentar todos os endpoints criados utilizando Swagger (opcional)
+○ Documentar todos os endpoints criados utilizando Swagger
